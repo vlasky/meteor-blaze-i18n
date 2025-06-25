@@ -1,13 +1,13 @@
-Notes for updating to Meteor 0.9.0
+Notes for Meteor 3.0 compatibility
 ----------------------------------
 
-This package is now called `anti:i18n`.
+This package is a fork of `anti:i18n` created as `vlasky:blaze-i18n` to support Meteor 3.0.
 
 
 
 # Internationalization for Meteor
 
-A simple (The simplest possible? Perhaps) i18n package for Meteor.
+A simple (The simplest possible? Perhaps) i18n package for Meteor apps utilizing Blaze as the view layer.
 
 # API
 
